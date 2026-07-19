@@ -1,4 +1,4 @@
-# WQU MScFE 642 Deep Learning for Finance — Group Work Project 1
+# Deep Learning for Finance — Group Work Project 1
 
 An enterprise-grade deep learning and tactical asset allocation framework engineered for the WorldQuant University (WQU) MScFE 642 curriculum. This pipeline designs, calibrates, and backtests progressive neural network architectures to capture non-linear, cross-asset short-term market trends across five foundational ETF macro asset classes (SPY, TLT, SHY, GLD, DBO).
 
